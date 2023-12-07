@@ -1,4 +1,4 @@
-# house_price 🏡🌉
+# Linear regression algorithm to predict housing prices in the state of California USA. 🏡🌉
 Predicting house prices using Linear Regression.
  
 ## Description
